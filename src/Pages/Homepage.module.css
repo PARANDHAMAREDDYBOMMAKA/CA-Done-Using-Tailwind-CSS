@@ -1,0 +1,5 @@
+.inputContainer:hover{
+    -webkit-box-shadow: inset 0px -1px 29px 0px rgba(227, 217, 36, 1);
+    -moz-box-shadow: inset 0px -1px 29px 0px rgba(227, 217, 36, 1);
+    box-shadow: inset 0px -1px 29px 0px rgba(227, 217, 36, 1);
+}
